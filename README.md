@@ -3,20 +3,32 @@ Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80
 </h1>
 
 <h3 align="center">
-Front-End & Full-Stack JavaScript Developer with 3+ years of experience building fast, modern, and scalable web applications.
+Front-End & Full-Stack JavaScript Developer with 4+ years of experience building fast, modern, and scalable web applications.
 </h3>
 
 <h3 align="center">📍 Based in Marrakech · Open to Remote & International Opportunities</h3>
 
 ---
 
-<h3 align="center">📬 Reach me out!</h3>
 <div align="center">
+  <h3>🛠️ Tech Stack</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Benassila-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benassila/)
-[![Mail Badge](https://img.shields.io/badge/-isBenassila-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ridabenassila@gmail.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Next.js](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
+[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
 
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Benassilacode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Benassilacode&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Benassilacode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -37,22 +49,6 @@ Front-End & Full-Stack JavaScript Developer with 3+ years of experience building
 - 😄 Pronouns: Reda
 - ⚡ Fun facts: I enjoy hiking, camping, basketball, painting, and making music 🎨🎵
 
----
-
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
-[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
-
-</div>
 
 ---
 
@@ -61,6 +57,14 @@ Front-End & Full-Stack JavaScript Developer with 3+ years of experience building
 - 📄 [My Resume / CV](https://github.com/RedaTheCeo/Me-I/blob/main/resumes/benassila.pdf)
 - 📧 Email: **ridabenassila@gmail.com**
 - 🌍 Open to freelance, contract, and full-time roles
+
+---
+
+<h3 align="center">📬 Reach me out!</h3>
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Benassila-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benassila/)
+[![Mail Badge](https://img.shields.io/badge/-isBenassila-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ridabenassila@gmail.com)
 
 ---
 
